@@ -24,5 +24,5 @@ Example:
 Source:The dataset used in this project was sourced from a YouTube tutorial for learning purposes.
 
 Screenshot
-Example:
+Example:https://github.com/Poonam-kanojiya/Power-Bi-Dashboard-/blob/main/Power%20Bi%20Intractive%20Dashboard.png
 
